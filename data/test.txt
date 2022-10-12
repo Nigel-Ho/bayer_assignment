@@ -1,0 +1,54 @@
+Additional safety data from maintenance study period CT-P10 3.3 and follow-up period should be provided (see RMP).	Negative
+Most common reported events were infections, infusion related reactions.	Neutral
+More detailed data on injection site reactions, hypersensitivity and anaphylactic reactions were requested in order to allow a thorough assessment of this issue both in subjects with and without ADAs.	Negative
+The effect was consistent across studies and across investigated subgroups.	Neutral
+The efficacy data of the two phase 3 placebo-controlled studies in patients who received background DMARDs showed that both dose regimens of sarilumab (150 mg q2w, 200 mg q2w) were superior to placebo regarding improvement of signs and symptoms (ACR20 responses), of physical function (change from baseline in HAQ-DI) and of progression in structural damage (mTSS, only study EFC11072).	Positive
+The objectives of study CT-P10 3.3 were to demonstrate similarity in pharmacokinetics and non-inferiority in efficacy of CT-P10 to Rituxan as primary endpoints when coadministered with CVP in patients with advanced FL; these objectives have been met and furthermore, extrapolation in the context of NHL and CLL indications is acceptable.	Positive
+The median OS time in the updated results exceeded 1 year	Neutral
+The clinical safety sections of the SmPC contain appropriate information for each substance and reflect the safety information on the FDC.	Positive
+Thus it appears plausible that the effect can be maintained for a majority of patients at the doses	Positive
+Treatment-emergent AIA did not affect efficacy or safety endpoints in either T1DM or T2DM subjects.	Positive
+Both studies, demonstrated that SAR342434 is non-inferior to Humalog in improvement of glycaemic control by Week 26 and therefore provided strong supportive evidence about the comparability/ biosimilarity of the two products.	Positive
+No major concerns have been identified in the updated analysis	Positive
+Therefore, the available safety data are considered supportive of biosimilarity between CT-P10 and MabThera.	Positive
+However, further analyses have shown that only a small proportion of patients (7% and 15%, study EFC12404 and EFC12405 respectively) had both reached the maximum dose and were in need of intensified treatment at week 30	Positive
+The 12-month results of study EFC12619 further supported similar clinical efficacy of SAR342434 and Humalog in T1DM subjects.	Positive
+Results from the pivotal study CLARITY showed a clinically relevant effect of cladribine in patients with RMS in terms of reduction of relapse rate as well as MRI lesions and delay in disability progression.	Positive
+The results of study 084-09 with 100mg formulation can be extrapolated to other strengths 20mg, according to conditions in the Guidelines.	Positive
+A similar trend towards prolonged OS was also observed in favour of lenvatinib monotherapy but less obvious than with combination therapy.	Positive
+to the EMA Guideline on the Investigation of Bioequivalence (CPMP/EWP/QWP/1401/98 Rev. 1/ Corr **), Ivabradine 5 mg film-coated tablets satisfy the conditions for waiver of bioequivalence studies conducted on the applied product 7.5 mg strength.	Positive
+Other potentially related AE’s including decreased appetite, vomiting, muscle spasms and rash.	Neutral
+In conclusion, the safety profile of Insulin lispro Sanofi is acceptable and not different to that of Humalog.	Positive
+The frequencies and nature of the adverse events were in line with those reported for the innovator MabThera/Rituxan in the RA and NLH study populations.	Positive
+The main side effects that have been observed with CHF 5993 are associated with the known ICS, LAMA and LABA effects.	Neutral
+With regard to immunogenicity, the incidence and titre distribution of ADAs were compared and seemed similar for SB5 and Humira, with about half of all subjects developing neutralising antibodies in each treatment group.	Positive
+SOF/VEL/VOX for 12 weeks has shown excellent efficacy in patients that have previously failed a regimen containing an NS5A inhibitor.	Positive
+In addition, the fatality rate in nusinersen-treated subjects with infantile-onset SMA was about half that of sham-controlled subjects	Positive
+However, these results are not seen for DAS28 which is favourable, or for ACR50 or ACR70, and as such it is concluded, that the difference seen at week 2 in ACR20 is likely to be a chance finding rather than a true difference.	Positive
+Only 3 pivotal randomized double-blind multicentre placebo controlled studies (Parsons and Mulholland 1987, Mulholland et al 1990 and Parsons et al 1993) among the 6 pivotal studies met their primary endpoint “GRA” and some secondary endpoints such as pain.	Negative
+Sarilumab is associated with infections (including serious infections), decrease in ANC and platelet count, and increase in ALT and lipids, all of which are events consistent with the known effect of IL-6 inhibition, and with injection site reactions, consistent with a SC route of administration.	Neutral
+The frequencies and nature of the adverse events were in line with those reported for the innovator MabThera/Rituxan in the RA and NLH study populations.	Positive
+Based on the presented bioequivalence study the test formulation Emtricitabine/Tenofovir disoproxil Krka d.d. 200mg/245mg film coated tablets of Krka d.d. Slovenia is considered bioequivalent with the reference Truvada 200mg/245mg film coated tablets manufactured by Gilead Sciences Intl. Ltd. Ireland MA holder: Gilead Sciences UK.	Positive
+This is in accordance with the relevant guideline and additional clinical studies were not considered necessary.	Positive
+A similar 12 week course appears somewhat better than SOF/VEL in patients with previous failure on a DAA-containing regimen without an NS5A inhibitor.	Positive
+No new safety signal has been reported.	Positive
+The final results of the study should be submitted by 30th January 2020	Neutral
+Furthermore, encouraging signs of a prolonged OS were seen in patients treated with the combination of lenvatinib and everolimus combination therapy as per the primary analysis as well as the two updated analyses that span a more than 1-year period.	Positive
+Long-term safety data will be obtained from the planned and ongoing studies.	Neutral
+A single dose bioequivalence study was considered sufficient since the application concerns an immediate release formulation.	Positive
+• PASS: German real-world cohort study should be submitted as additional PhV activity to address the missing information of safety and efficacy in immune compromised patients	Negative
+Therefore, the available safety data are considered supportive of biosimilarity between CT-P10 and MabThera.	Positive
+This was supported by favourable safety and efficacy data from the interim analysis of a randomized controlled clinical study, CS4 in later-onset subjects, open-label studies in pre-symptomatic subjects, and subjects with infantile-onset and later-onset SMA, where the attainment of motor milestones in subjects receiving treatment differed from that seen in the natural history of SMA	Positive
+In the studies, the FRC was always to be taken before breakfast, whereas the proposed SmPC states that Suliqua can be taken prior to any meal.	Neutral
+The application contains an adequate review of published clinical data and the bioequivalence has been shown between Granpidam and Viagra® 100 mg film-coated tablets.	Positive
+An 8 week course of SOF/VEL/VOX was similarly efficacious as 12 weeks of SOF/VEL in a difficult to cure DAA-naïve cirrhotic GT3 cohort.	Positive
+A lower frequency of patients developed lixisenatide antibodies (ADA) in the FRC group (36%) compared to the lixisenatide group (48%).	Positive
+Most common reported events were infections, infusion related reactions.	Neutral
+The overall safety profile of CT-P10 appeared roughly similar to that of the reference product although the pooled incidences of AEs and SAEs were generally lower for the reference products.	Neutral
+The bioequivalence of the applied product Ivabradine, film-coated tablets, 7.5 mg with the respective strength of the reference product Procoralan film-coated tablets of Les Laboratoires Servier has been demonstrated in one bioequivalence study (study 14-VIN-785).	Positive
+There is a lack of long-term data beyond 30 weeks with the FRC. 	Negative
+The safety observation is based on a total of 3354 patients exposed to at least 1 dose of sarilumab for a total of 5981.0 patient-years of exposure.	Neutral
+More detailed data on injection site reactions, hypersensitivity and anaphylactic reactions were requested in order to allow a thorough assessment of this issue both in subjects with and without ADAs.	Negative
+Study 307 is requested to further characterise the safety and tolerability profile of the combination therapy and further contribute to knowledge on PK and PK/PD of lenvatinib and everolimus and their PK and PD interactions.	Negative
+As part of the response to CHMP questions throughout the assessment, some clarifications and some additional data from ongoing studies (EXPEDITION-2 notably) were provided by the applicant in support of the efficacy of the product.	Neutral
+In order to confirm the efficacy for chemotherapy-naïve treated patients, the MAH should submit the final results of study EMR 100070-003 – Part B	Neutral

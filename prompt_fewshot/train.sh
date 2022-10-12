@@ -1,0 +1,20 @@
+python3 train.py \
+--model_name_or_path ernie-2.0-base-en \
+--device gpu \
+--data_dir ../data \
+--output_dir ./checkpoints/ \
+--prompt "The sentiment is" \
+--max_seq_length 128  \
+--learning_rate 3e-5 \
+--ppt_learning_rate 3e-4 \
+--do_train \
+--do_eval \
+--use_rdrop \
+--max_steps 1000 \
+--eval_steps 10 \
+--logging_steps 5 \
+--load_best_model_at_end True \
+--per_device_eval_batch_size 32 \
+--per_device_train_batch_size 8 \
+--do_predict \
+--do_export
