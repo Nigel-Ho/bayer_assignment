@@ -2,7 +2,7 @@
 Assignment for Bayer DS interview
 
 this repo is created for Bayer DS NLP assignment:
-
+"""bash
 --Data
   -data_preprocess.py  -> script for data preprocessing for prompt learning input
 --traiditonal
@@ -13,3 +13,4 @@ this repo is created for Bayer DS NLP assignment:
   
  
  for more details and experiment result, I will write into ppt
+"""
